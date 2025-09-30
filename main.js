@@ -1,4 +1,4 @@
-import createPlaylist from "./utils/playlist.js";
+import createPlaylist from "./domain/audio_controller";
 
 let progress_bar = document.getElementById("progress");
 let media = document.getElementById("media");
